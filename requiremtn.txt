@@ -1,0 +1,18 @@
+1. menu optional, But name must be changed.
+2. carosel required.- minimum 3 images required.
+3. slider e minigful text thakbe, button thakbe, link-button.
+3. design change kora jabe.
+
+4. 2nd part optional.
+5. 3rd part mendatory.
+6. happy clients optional.
+
+7. Frequintly asked quistion mendatory.
+8. Footer mendatory, icon linked.
+9. responsive for mobile
+
+// For bonus extra one section
+// more than 5 commit
+//comment
+//font awsome
+//toast thakbe
