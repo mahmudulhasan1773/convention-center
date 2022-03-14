@@ -15,3 +15,72 @@ body {
   text-decoration: none;
   color: black;
 }
+
+/* package section */
+#packeges-section {
+  padding: 100px 0px;
+}
+#section-title {
+}
+ul.packges-checklist {
+  margin: 0;
+  padding: 0;
+}
+.card {
+  border: none;
+  background: none;
+}
+.card-body {
+  padding: 0px;
+}
+.card-body a {
+  background-color: #b7b4cf49;
+  color: #3f87f5;
+  border: none;
+  margin-top: 20px;
+  width: 75%;
+  border-radius: 25px;
+}
+.card-header {
+  padding: 0.5rem 1rem;
+  margin-bottom: 0;
+  margin-left: 5px;
+  border: none;
+}
+h5.card-header {
+  background: none;
+}
+.card h3 {
+  margin-left: 17px;
+}
+.packges-checklist li {
+  list-style: none;
+}
+span {
+  padding: 5px 0px;
+  /* background-color: #11000052; */
+  border-radius: 50px;
+  margin-right: 10px;
+}
+i.fa-solid.fa-check {
+  margin-bottom: 18px;
+  background-color: #b7b4cf;
+  color: #848199;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.wedding-plus {
+  background-color: #3f87f5;
+  padding: -20px 5px;
+  border-radius: 15px;
+  color: #fff;
+}
+.wedding-plus a {
+  background-color: #fff;
+  color: #3f87f5;
+  margin-bottom: 20px;
+}
+.wedding-plus i.fa-solid.fa-check {
+  color: rgb(255, 255, 255);
+}
