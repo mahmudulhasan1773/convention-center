@@ -19,6 +19,7 @@ body {
 /* package section */
 #packeges-section {
   padding: 100px 0px;
+  position: relative;
 }
 #section-title {
 }
@@ -83,4 +84,56 @@ i.fa-solid.fa-check {
 }
 .wedding-plus i.fa-solid.fa-check {
   color: rgb(255, 255, 255);
+}
+/* toast */
+.toast {
+  width: 200px;
+  max-width: 100%;
+  font-size: .875rem;
+  pointer-events: auto;
+  background-color: rgba(255,255,255,.85);
+  background-clip: padding-box;
+  border: 1px solid rgba(0,0,0,.1);
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  border-radius: 0.25rem;
+  position: absolute;
+  right:10px;
+
+
+}
+
+/* footer section */
+
+#footer-section{
+  margin-top: 20px;
+  padding:50px 0px;
+  background-color:#0B0D17;
+}
+#footer-section p{
+color:rgb(255, 255, 255);
+}
+.text-right{
+  float: right;
+}
+#footer-section button{
+    border-radius: 5px;
+    background-color: #000;
+    border: 1px solid #fff;
+    margin-bottom: 5px;
+}
+#footer-section button i{
+color:#fff;
+}
+.footer-btn a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px;
+  margin-bottom: 5p;
+  font-size: 10px;
+}
+.apple-store{
+  font-size: 20px;
+}
+.google-store{
+  font-size: 20px;
 }
