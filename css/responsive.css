@@ -1,0 +1,32 @@
+/* For extremely small screen devices (595px and below) */
+/* ----------- iPhone 12 Mini ----------- */
+
+/* 2340x1080 pixels at 476ppi */
+@media only screen and (device-width: 360px) and (device-height: 780px) and (-webkit-device-pixel-ratio: 3) {
+  #packeges-section {
+    text-align: center;
+    padding: 20px;
+  }
+  .footer-btn {
+ justify-content: center;
+ align-items: center;
+}
+/* Small screen devices (600px and above) */
+@media only screen and (min-width: 600px) {
+  ...;
+}
+
+/* Medium screen devices (768px and above) */
+@media only screen and (min-width: 768px) {
+  ...;
+}
+
+/* Big screen devices (889px and above) */
+@media only screen and (min-width: 889px) {
+  ...;
+}
+
+/* Extra big screen devices (1200px and above) */
+@media only screen and (min-width: 1200px) {
+  ...;
+}
